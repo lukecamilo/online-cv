@@ -7,194 +7,181 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Lucas Camilo
+    tagline: Sysadmin
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: lucas@camilo.com.ar
+    phone: +5491158675958
+    website: lucas.camilo.com.ar
+    website: powershelleando.com.ar #do not add http://
+    linkedin: lucascamilo
+    github: lukecamilo
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@powershelleando'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
-        level: Native
-
-      - idiom: French
         level: Professional
-
+        
       - idiom: Spanish
-        level: Professional
-
+        level: Native
+        
     interests:
-      - item: Climbing
-        link:
+      - item: Powershell
+        link: www.powershelleando.com.ar/
 
-      - item: Snowboarding
-        link:
+      - item: Salesforce
+        link: trailhead.salesforce.com/en/me/lukecamilo
 
-      - item: Cooking
-        link:
+
+education:
+    - degree: Bachelor in IT & Business
+      university: Universidad CAECE
+      time: 2015 - 2018 (Incomplete)
+      details: |
+
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+        IT professional, avid researcher, powershell enthusiast. 
+        I focus on personal and professional development, trying to get better or learn something new everyday. 
+        I believe on self-improvement as a way of life.
 
-      Second paragraph if required.
-
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Senior Associate
+      time: 2016 - Present
+      company: Ernst & Young / EY
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Windows Server (2008/R2, 2012/R2, 2016) administration.
+        MS SQL Server 2008/12/14/16 administration.
+        Active Directory Administration.
+        Azure Administration.
+        WebApps Administration (IIS 7.5)
+        eDiscovery Applications (Relativity, Brainspace) support
+        Certified Brainspace 6 Analyst and Brainspace 6 Administrator
+        Global Vulnerability Management - Vulnerabilities Research and Remediation (Windows Server 2008/R2, 2012/R2, RHEL6).
+        PowerShell scripting for reporting and modifications on Dev/Prod environments.
+          - Multiple monitoring scripts on Relativity usage, working agents and configuration changes.  
+          - Multithreading improvement over relativity cache cleanup.
+          - Various AD reporting + key group modification alerts.
+          - Daily SQL tasks automation. 
 
-          - Bullet point
-          - Bullet point
-
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Windows Sysadmin
+      time: 2015
+      company: Atos, Argentina
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        EMC’s Networker backup administrator across 7 regional sites.
+            - Automated reporting for all sites
+        NetApp storage administration.
+        Local Exchange 2007 administration specialist.
+            - Automated mail creation using powershell
+        Windows Server (2008/R2 & 2012/R2) administration.
+        Used to work on-site for a global Oil company.
 
-          - Bullet point
-          - Bullet point
-
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Windows Sysadmin
+      time: 2012-2015
+      company: Assist Card, Argentina
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        Active Directory administration (2 domains in a trust relationship, 2000 users)
+            - Migrated from 2003 to 2008r2
+        Microsoft Exchange administration (both Management Console and Shell)
+            - Migrated from 2007 to 2010 and then to 2013
+        WSUS (Windows Server Update Services) configuration and administration (1500 workstations/servers)
+            - Deployed from scratch as my first proyect after getting promoted from Tech support.
+        PowerShell scripting for reporting and modifications on a RTM environment.
+            - Automated user account creation process.
+            - Automated Password expiration report
+            - Created multiple tools that still are in use
+        WDS administration (Windows Deployment Services – automatic network installation for desktops, laptops and servers, we upgraded over 800 computers from XP to 7)
+            - Deployed from scratch
+        GPO (Group Policy Objects) design and implementation.
+            - Converted over 50 logon scripts (from old 2003 domain) into small and manageable policies. Login times were cut from over 4 minutes to 30 seconds
+        VMware ESXi administration (15 physical servers, with over 200 VMs globally.
+        WebApps administration (Apache Tomcat, IIS 6 and 7.5)
+            - Automated deployments in linux boxes using bash  
+        Technical manager for remote branches: 
+            - Korea
+            - Peru
+            - Spain
+            - Uruguay
+            
+    - role: Tech Support
+      time: 2011-2012
+      company: Assist Card, Argentina
+      details: |
+        First level support. 
+        Active Directory CRUD operations. 
+        Kaspersky antivirus installation and administration on a corporate level. 
+        
+            
 projects:
-    title: Projects
+    title: Websites
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      You can find more about me, my work and my education on the following links
 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Powershelleando
+        link: "https://powershelleando.com.ar"
+        tagline: "A small blog where i sporadically post scripts, snippets and news about powershell in spanish"
 
 publications:
-    title: Publications
+    title: Certifications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
+      It's not much but it's honest work :)
+      
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: "ITIL® Foundation Certificate in IT Service Management"
+        link: "http://www.peoplecert.org/en/Candidates/Certificate_Verification/Pages/Certificate_Verification.aspx"
+        authors: PeopleCert - 2016
+        conference: "Credential ID GR750247381LC"
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: "MSCA: Office 365"
+        link: "https://www.youracclaim.com/user/lucascamilo"
+        authors: Microsoft - 2014
+        conference: "Credential ID F108-8096"
+        
+      - title: "Brainspace 6 Certified Analyst"
+        authors: Brainspace, a Cyxtera Technology - 2018/2019
+        
+      - title: "Brainspace 6 Certified Administrator"
+        authors: Brainspace, a Cyxtera Technology - 2018/2019
+        
+      - title: "Salesforce Training profile"
+        link: "https://trailhead.salesforce.com/me/lukecamilo"
+        authors: Trailhead by Salesforce
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Windows server 2008/2012/2017
+        level: 80%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Active Directory
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Powershell scripting
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: SQL Administration
+        level: 40%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Virtualization
+        level: 75%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Salesforce Admin
+        level: 30%
+
+      - name: eDiscovery Support
+        level: 65%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    Stolen with <i class="fas fa-heart"></i> from <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
