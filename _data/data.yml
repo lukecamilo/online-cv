@@ -70,7 +70,7 @@ experiences:
           - Certified Brainspace 6 Analyst and Brainspace 6 Administrator  
           - Global Vulnerability Management - Vulnerabilities Research and Remediation (Windows Server 2008/R2, 2012/R2, RHEL6).  
           - PowerShell scripting for reporting and modifications on Dev/Prod environments.  
-                - Multiple monitoring scripts on Relativity usage, working agents and configuration changes.    
+            - Multiple monitoring scripts on Relativity usage, working agents and configuration changes.    
           - Multithreading improvement over relativity cache cleanup.  
           - Various AD reporting + key group modification alerts.  
           - Daily SQL tasks automation.   
