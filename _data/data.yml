@@ -60,66 +60,66 @@ experiences:
       time: 2016 - Present
       company: Ernst & Young / EY
       details: |
-        Windows Server (2008/R2, 2012/R2, 2016) administration.
-        MS SQL Server 2008/12/14/16 administration.
-        Active Directory Administration.
-        Azure Administration.
-        WebApps Administration (IIS 7.5)
-        eDiscovery Applications (Relativity, Brainspace) support
-        Certified Brainspace 6 Analyst and Brainspace 6 Administrator
-        Global Vulnerability Management - Vulnerabilities Research and Remediation (Windows Server 2008/R2, 2012/R2, RHEL6).
-        PowerShell scripting for reporting and modifications on Dev/Prod environments.
-          - Multiple monitoring scripts on Relativity usage, working agents and configuration changes.  
-          - Multithreading improvement over relativity cache cleanup.
-          - Various AD reporting + key group modification alerts.
-          - Daily SQL tasks automation. 
+        Windows Server (2008/R2, 2012/R2, 2016) administration.  
+        MS SQL Server 2008/12/14/16 administration.  
+        Active Directory Administration.  
+        Azure Administration.  
+        WebApps Administration (IIS 7.5)  
+        eDiscovery Applications (Relativity, Brainspace) support  
+        Certified Brainspace 6 Analyst and Brainspace 6 Administrator  
+        Global Vulnerability Management - Vulnerabilities Research and Remediation (Windows Server 2008/R2, 2012/R2, RHEL6).  
+        PowerShell scripting for reporting and modifications on Dev/Prod environments.  
+          - Multiple monitoring scripts on Relativity usage, working agents and configuration changes.    
+          - Multithreading improvement over relativity cache cleanup.  
+          - Various AD reporting + key group modification alerts.  
+          - Daily SQL tasks automation.   
 
     - role: Windows Sysadmin
       time: 2015
       company: Atos, Argentina
       details: |
-        EMC’s Networker backup administrator across 7 regional sites.
-            - Automated reporting for all sites
-        NetApp storage administration.
-        Local Exchange 2007 administration specialist.
-            - Automated mail creation using powershell
-        Windows Server (2008/R2 & 2012/R2) administration.
-        Used to work on-site for a global Oil company.
+        EMC’s Networker backup administrator across 7 regional sites.  
+            - Automated reporting for all sites  
+        NetApp storage administration.  
+        Local Exchange 2007 administration specialist.  
+            - Automated mail creation using powershell  
+        Windows Server (2008/R2 & 2012/R2) administration.  
+        Used to work on-site for a global Oil company.  
 
     - role: Windows Sysadmin
       time: 2012-2015
       company: Assist Card, Argentina
       details: |
-        Active Directory administration (2 domains in a trust relationship, 2000 users)
-            - Migrated from 2003 to 2008r2
-        Microsoft Exchange administration (both Management Console and Shell)
-            - Migrated from 2007 to 2010 and then to 2013
-        WSUS (Windows Server Update Services) configuration and administration (1500 workstations/servers)
-            - Deployed from scratch as my first proyect after getting promoted from Tech support.
-        PowerShell scripting for reporting and modifications on a RTM environment.
-            - Automated user account creation process.
-            - Automated Password expiration report
-            - Created multiple tools that still are in use
-        WDS administration (Windows Deployment Services – automatic network installation for desktops, laptops and servers, we upgraded over 800 computers from XP to 7)
-            - Deployed from scratch
-        GPO (Group Policy Objects) design and implementation.
-            - Converted over 50 logon scripts (from old 2003 domain) into small and manageable policies. Login times were cut from over 4 minutes to 30 seconds
-        VMware ESXi administration (15 physical servers, with over 200 VMs globally.
-        WebApps administration (Apache Tomcat, IIS 6 and 7.5)
-            - Automated deployments in linux boxes using bash  
-        Technical manager for remote branches: 
-            - Korea
-            - Peru
-            - Spain
-            - Uruguay
+        Active Directory administration (2 domains in a trust relationship, 2000 users)  
+            - Migrated from 2003 to 2008r2  
+        Microsoft Exchange administration (both Management Console and Shell)  
+            - Migrated from 2007 to 2010 and then to 2013  
+        WSUS (Windows Server Update Services) configuration and administration (1500 workstations/servers)  
+            - Deployed from scratch as my first proyect after getting promoted from Tech support.  
+        PowerShell scripting for reporting and modifications on a RTM environment.  
+            - Automated user account creation process.  
+            - Automated Password expiration report  
+            - Created multiple tools that still are in use  
+        WDS administration (Windows Deployment Services – automatic network installation for desktops, laptops and servers, we upgraded over 800 computers from XP to 7)  
+            - Deployed from scratch  
+        GPO (Group Policy Objects) design and implementation.  
+            - Converted over 50 logon scripts (from old 2003 domain) into small and manageable policies. Login times were cut from over 4 minutes to 30 seconds  
+        VMware ESXi administration (15 physical servers, with over 200 VMs globally.  
+        WebApps administration (Apache Tomcat, IIS 6 and 7.5)  
+            - Automated deployments in linux boxes using bash    
+        Technical manager for remote branches:   
+            - Korea  
+            - Peru  
+            - Spain  
+            - Uruguay  
             
     - role: Tech Support
       time: 2011-2012
       company: Assist Card, Argentina
       details: |
-        First level support. 
-        Active Directory CRUD operations. 
-        Kaspersky antivirus installation and administration on a corporate level. 
+        First level support.  
+        Active Directory CRUD operations.  
+        Kaspersky antivirus installation and administration on a corporate level.   
         
             
 projects:
