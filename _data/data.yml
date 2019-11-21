@@ -34,10 +34,13 @@ sidebar:
         
     interests:
       - item: Powershell
-        link: https://www.powershelleando.com.ar/
+        link: 
 
       - item: Salesforce
-        link: https://trailhead.salesforce.com/en/me/lukecamilo
+        link: 
+        
+      - item: DevOps
+        link:
 
 
 education:
@@ -133,6 +136,10 @@ projects:
       - title: Powershelleando
         link: "https://powershelleando.com.ar"
         tagline: "A small blog where i sporadically post scripts, snippets and news about powershell in spanish"
+        
+      - title: Salesforce Trialhead profile
+        link: "https://trailhead.salesforce.com/en/me/lukecamilo"
+        tagline: 
 
 publications:
     title: Certifications
