@@ -34,10 +34,10 @@ sidebar:
         
     interests:
       - item: Powershell
-        link: www.powershelleando.com.ar/
+        link: https://www.powershelleando.com.ar/
 
       - item: Salesforce
-        link: trailhead.salesforce.com/en/me/lukecamilo
+        link: https://trailhead.salesforce.com/en/me/lukecamilo
 
 
 education:
