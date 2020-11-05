@@ -21,6 +21,8 @@ sidebar:
     gitlab:
     bitbucket:
     twitter: '@powershelleando'
+    website: lucas.camilo.com.ar/indexsp.html #do not add http://
+
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -34,9 +36,6 @@ sidebar:
         
     interests:
       - item: Powershell
-        link: 
-
-      - item: Salesforce
         link: 
         
       - item: DevOps
@@ -59,7 +58,7 @@ career-profile:
 
       
 experiences:
-    - role: Senior Associate
+    - role: Automation & Services Integration Engineer - Senior Associate
       time: 2016 - Present
       company: Ernst & Young / EY
       details: |
@@ -71,12 +70,12 @@ experiences:
           - WebApps Administration (IIS 7.5)  
           - eDiscovery Applications (Relativity, Brainspace) support  
           - Certified Brainspace 6 Analyst and Brainspace 6 Administrator  
-          - Global Vulnerability Management - Vulnerabilities Research and Remediation (Windows Server 2008/R2, 2012/R2, RHEL6).  
+          - InfoSec - Vulnerabilities Research and Remediation (Windows Server 2008/R2, 2012/R2, RHEL6). 
           - PowerShell scripting for reporting and modifications on Dev/Prod environments.  
             - Multiple monitoring scripts on Relativity usage, working agents and configuration changes.    
-          - Multithreading improvement over relativity cache cleanup.  
-          - Various AD reporting + key group modification alerts.  
-          - Daily SQL tasks automation.   
+            - Multithreading improvement over relativity cache cleanup.  
+            - Various AD reporting + key group modification alerts.  
+            - Daily SQL tasks automation.   
 
     - role: Windows Sysadmin
       time: 2015
@@ -105,8 +104,9 @@ experiences:
             - Automated user account creation process.  
             - Automated Password expiration report  
             - Created multiple tools that still are in use  
-          - WDS administration (Windows Deployment Services – automatic network installation for desktops, laptops and servers, we upgraded over 800 computers from XP to 7)  
-            - Deployed from scratch              
+          - WDS administration (Windows Deployment Services – automatic network installation for desktops, laptops and servers)  
+            - Deployed from scratch
+            - Used on a modernization project that upgraded over 800 computers from XP to 7
           - GPO (Group Policy Objects) design and implementation.  
             - Converted over 50 logon scripts (from old 2003 domain) into small and manageable policies. Login times were cut from over 4 minutes to 30 seconds          
           - VMware ESXi administration (15 physical servers, with over 200 VMs globally.  
@@ -137,9 +137,6 @@ projects:
         link: "https://powershelleando.com.ar"
         tagline: "A small blog where i sporadically post scripts, snippets and news about powershell in spanish"
         
-      - title: Salesforce Trialhead profile
-        link: "https://trailhead.salesforce.com/en/me/lukecamilo"
-        tagline: 
 
 publications:
     title: Certifications
@@ -153,15 +150,15 @@ publications:
         conference: "Credential ID GR750247381LC"
 
       - title: "MSCA: Office 365"
-        link: "https://www.youracclaim.com/user/lucascamilo"
+        link: "https://www.youracclaim.com/earner/earned/badge/f60ec75a-3729-44a6-bd44-4ed2cea990fa"
         authors: Microsoft - 2014
         conference: "Credential ID F108-8096"
         
       - title: "Brainspace 6 Certified Analyst"
-        authors: Brainspace, a Cyxtera Technology - 2018/2019
+        authors: Brainspace, a Cyxtera Technology - 2018/2019/2020
         
       - title: "Brainspace 6 Certified Administrator"
-        authors: Brainspace, a Cyxtera Technology - 2018/2019
+        authors: Brainspace, a Cyxtera Technology - 2018/2019/2020
       
       - title: "EY Analytics - Data platform - Bronze"
         link: "https://www.youracclaim.com/badges/1f7d7604-7807-4f7c-bf36-ff30ff95107a"
@@ -171,6 +168,15 @@ publications:
         link: "https://www.youracclaim.com/badges/ea646fe5-e8de-44fb-b46f-7868be0e34d6"
         authors: EY
         
+      - title: "EY Innovation - Agile - Bronze"
+        link: "https://www.youracclaim.com/badges/49714902-c3c5-40b0-85a5-77e9ccc19d11"
+        authors: EY        
+        
+      - title: "Microsoft Certified: Azure Fundamentals"
+        link: "https://www.youracclaim.com/earner/earned/badge/681fcd8a-d4a0-4059-ab96-26b6afb90920"
+        authors: Microsoft - 2020
+        conference: "Credential ID F108-8096"
+
       - title: "Salesforce Training profile"
         link: "https://trailhead.salesforce.com/me/lukecamilo"
         authors: Trailhead by Salesforce
@@ -179,9 +185,12 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Windows server 2008/2012/2017
+      - name: Windows server 2008/2012/2016/2019
         level: 80%
 
+      - name: Azure Administration
+        level: 60%
+        
       - name: Active Directory
         level: 70%
 
