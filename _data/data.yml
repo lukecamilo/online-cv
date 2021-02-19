@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Lucas Camilo
-    tagline: Cloud Admin
+    tagline: Cloud Engineer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -57,8 +57,15 @@ career-profile:
 
       
 experiences:
+
+    - role: Cloud Engineer
+      time: 2021 - Present
+      company: BGH Tech Partner, Argentina
+      details: |
+        Working on multiple cloud transformation projects on AWS and GCP. 
+
     - role: Automation & Services Integration Engineer - Senior Associate
-      time: 2016 - Present
+      time: 2016 - 2021
       company: Ernst & Young / EY
       details: |
         Currently working on the Automation and Services Integration team as the Powershell lead. My skills and responsabilities include:
