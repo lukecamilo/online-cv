@@ -39,6 +39,15 @@ sidebar:
         
       - item: DevOps
         link:
+        
+      - item: Azure
+        link:
+        
+      - item: AWS
+        link: 
+        
+      - item: GCP
+        link:
 
 
 education:
@@ -190,7 +199,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Windows server 2008/2012/2016/2019
+      - name: Windows server 08/12/16/19
         level: 80%
 
       - name: Azure Administration
