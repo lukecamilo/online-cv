@@ -196,6 +196,12 @@ skills:
       - name: Azure Administration
         level: 60%
         
+      - name: AWS Administration
+        level: 20%
+        
+      - name: GCP Administration
+        level: 20%
+        
       - name: Active Directory
         level: 70%
 
